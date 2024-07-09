@@ -40,14 +40,14 @@ export const selectableLanguages = [
   'ms',
   'nb',
   'ro',
-  'ru',
+  // 'ru',
   'sv',
   // 'ug',
-  'yue',
+  //'yue',
   // 'zh',
-  'zh-CN',
+  //'zh-CN',
   // 'zh-HK',
-  'zh-TW',
+  //'zh-TW',
 ] as const;
 
 export const languageCodeToName = {
